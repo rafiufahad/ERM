@@ -1,0 +1,13 @@
+[ Gymnasium ] --- (1) ---< Registers >--- (Many) --- [ Member ]
+      |
+     (1)
+      |
+     [ Offers ]
+      |
+    (Many)
+     |
+   [ Session ] ---< [ Membership ] >--- [ Member ]
+      |
+     (Many)
+      |
+     [ SessionCoach ] ---< (Many) --- [ Coach ]
